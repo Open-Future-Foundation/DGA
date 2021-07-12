@@ -49,3 +49,23 @@
 (d) to advise and assist the Commission in addressing harmful fragmentation of the internal market and the data economy by enhancing crossborder and cross-sector interoperability of data, building on existing European, international or national standards, and with the aim of encouraging the creation of common European data spaces;
 
 (e) to facilitate the cooperation between national competent authorities under this Regulation through capacity-building and the exchange of information, in particular by establishing methods for the efficient exchange of information relating to the notification procedure for data intermediaries and the registration and monitoring of recognised data altruism organisations.
+
+(ea) to facilitate cooperation between Member States in relation to the rules on penalties laid down by the Member States pursuant to Article 31 and to issue guidelines with regard to best practices concerning the implementation of those rules and the enforcement of penalties across the Union, and to advise the Commission on the need to amend this Regulation with the view to the harmonisation of the rules on penalties referred to in Article 31;
+
+(eb) to advise the Commission in the decision of adopting implementing acts referred to in Article 5(9) and to facilitate the cooperation between national competent authorities on the application of Article 30;
+
+(ec) to advise and assist the Commission in the discussions conducted at bilateral, plurilateral or multilateral level with third countries in order to minimise harmful fragmentation of the global digital markets by pushing for joint standards and fostering data exchange between trusted countries at a global level and aiming to improve the regulatory environment for non-personal data;
+
+(ed) to provide expertise, recommendations and advise to the Commission on the possible need to amend this Regulation or related Union legislative acts, such as Directive (EU) 2019/1024;
+
+(ee) to report annually on the percentage of data shared in accordance with this Regulation that is processed in and outside the Union.
+
+(1a) The Board shall develop recommendations to ensure the consistency between the practices of the competent authorities and shall draft opinions on the status of the application of the Regulation in Member States. If inconsistent practices that could lead to fragmentation of the internal market have been identified, the Board shall draft decisions to be submitted to the Commission. Such decisions may recommendations for Member States to take all necessary measures to ensure consistency of practices and prevent market fragmentation.
+
+(1c) application of the purposes as laid down in Regulation ...[laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (2021/0106(COD))], and shall provide advice and assistance to the Commission in order to:
+
+(a) contribute to the effective cooperation of the national supervisory authorities and the Commission with regard to matters covered by Regulation ...[the Artificial Intelligence Act];
+
+(b) coordinate and contribute to guidance and analysis by the Commission and the national supervisory authorities and other competent authorities on emerging issues across the internal market with regard to matters covered by Regulation ...[the Artificial Intelligence Act];
+
+(c) assist the national supervisory authorities and the Commission in ensuring the consistent application of Regulation [Artificial Intelligence Act].
