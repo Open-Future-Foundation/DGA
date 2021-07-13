@@ -2,7 +2,7 @@
 
 ### Article 26 European Data Innovation Board
 
-(1) The Commission shall establish a European Data Innovation Board (“the Board”) in the form of an Expert Group, consisting of the representatives of competent authorities of all the Member States, the European Data Protection Board, the Commission, relevant data spaces and other representatives of competent authorities in specific sectors.
+(1) The Commission shall establish a European Data Innovation Board (“the Board”) in the form of an Expert Group, consisting of the representatives of competent authorities of all the Member States, the European Data Protection Board, the Commission, relevant data spaces, relevant legal experts and other representatives of competent authorities in specific sectors, as well as the European Parliament as observer.
 
 (2) Stakeholders and relevant third parties may be invited to attend meetings of the Board and to participate in its work.
 
@@ -23,3 +23,5 @@ The Board shall have the following tasks:
 (d) to assist the Commission in enhancing the interoperability of data as well as data sharing services between different sectors and domains, building on existing European, international or national standards;
 
 (e) to facilitate the cooperation between national competent authorities under this Regulation through capacity-building and the exchange of information, in particular by establishing methods for the efficient exchange of information relating to the notification procedure for data sharing service providers and the registration and monitoring of recognised data altruism organisations.
+
+(ea) to facilitate cooperation between Member States in relation to the rules on penalties laid down by the Member States pursuant to Article 31 and to issue guidelines with regard to best practices concerning the implementation of those rules and the enforcement of penalties across the Union, and to advise the Commission on the need to amend this Regulation with the view to the harmonisation of the rules on penalties referred to in Article 31.
