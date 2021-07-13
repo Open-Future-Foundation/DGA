@@ -2,9 +2,9 @@
 
 ### Article 15 Register of recognised data altruism organisations
 
-(1) Each competent authority designated pursuant to Article 20 shall keep a register of recognised data altruism organisations.
+(1) Each competent authority designated pursuant to Article 20 shall contribute to a public Union register of recognised data altruism organisations.
 
-(2) The Commission shall maintain a Union register of recognised data altruism organisations.
+(2) The Commission shall maintain the public Union register of recognised data altruism organisations, which shall be available in all official languages of the Union.
 
 (3) An entity registered in the register in accordance with Article 16 may refer to itself as a ‘data altruism organisation recognised in the Union’ in its written and spoken communication.
 
@@ -16,13 +16,13 @@ In order to qualify for registration, the data altruism organisation shall:
 
 (b) operate on a not-for-profit basis and be independent from any entity that operates on a for-profit basis;
 
-(c) perform the activities related to data altruism take place through a legally independent structure, separate from other activities it has undertaken.
+(c) perform the activities related to data altruism through a legally independent structure, separate from other activities it has undertaken.
 
 ### Article 17 Registration
 
 (1) Any entity which meets the requirements of Article 16 may request to be entered in the register of recognised data altruism organisations referred to in Article 15 (1).
 
-(2) For the purposes of this Regulation, an entity engaged in activities based on data altruism with establishments in more than one Member State, shall register in the Member State in which it has its main establishment.
+(2) For the purposes of this Regulation, an entity engaged in activities based on data altruism with establishments in more than one Member State, shall communicate the information referred to in paragraph 4 of this Article to the competent authority designated pursuant to Article 20in the Member State in which it has its main establishment.
 
 (3) An entity that is not established in the Union, but meets the requirements in Article 16, shall appoint a legal representative in one of the Member States where it intends to collect data based on data altruism. For the purpose of compliance with this Regulation, that entity shall be deemed to be under the jurisdiction of the Member State where the legal representative is located.
 
@@ -34,7 +34,7 @@ In order to qualify for registration, the data altruism organisation shall:
 
 (c) the statutes of the entity, where appropriate;
 
-(d) the entity’s main sources of income;
+(d) the entity’s sources of income;
 
 (e) the address of the entity’s main establishment in the Union, if any, and, where applicable, any secondary branch in another Member State or that of the legal representative designated pursuant to paragraph (3);
 
@@ -46,15 +46,15 @@ In order to qualify for registration, the data altruism organisation shall:
 
 (i) any other documents which demonstrate that the requirements of Article 16 are met.
 
-(5) Where the entity has submitted all necessary information pursuant to paragraph 4 and the competent authority considers that the entity complies with the requirements of Article 16, it shall register the entity in the register of recognised data altruism organisations within twelve weeks from the date of application. The registration shall be valid in all Member States. Any registration shall be communicated to the Commission, for inclusion in the Union register of recognised data altruism organisations.
+(5) Where the entity has submitted all necessary information pursuant to paragraph 4 and the competent authority considers that the entity complies with the requirements of Article 16, it shall communicate the information to the Commission for inclusion in the public Union register of recognised data altruism organisations within twelve weeks from the date of application. The registration in that public Union register shall be valid in all Member States.
 
-(6) The information referred to in paragraph 4, points (a), (b), (f), (g), and (h) shall be published in the national register of recognised data altruism organisations.
+(6) The information referred to in paragraph 4, points (a), (b), (f), (g), and (h) shall be published in the public Union register of recognised data altruism organisations.
 
 (7) Any entity entered in the register of recognised data altruism organisations shall submit any changes of the information provided pursuant to paragraph 4 to the competent authority within 14 calendar days from the day on which the change takes place.
 
 ### Article 18 Transparency requirements
 
-(1) Any entity entered in the national register of recognised data altruism organisations shall keep full and accurate records concerning:
+(1) Any entity entered in the public Union register of recognised data altruism organisations shall keep full and accurate records concerning:
 
 (a) all natural or legal persons that were given the possibility to process data held by that entity;
 
@@ -68,21 +68,33 @@ In order to qualify for registration, the data altruism organisation shall:
 
 (b) a description of the way in which the general interest purposes for which data was collected have been promoted during the given financial year;
 
-(c) a list of all natural and legal persons that were allowed to use data it holds, including a summary description of the general interest purposes pursued by such data use and the description of the technical means used for it, including a description of the techniques used to preserve privacy and data protection;
+(c) a list of all natural and legal persons that were allowed to process or otherwise use data it holds, including a summary description of the general interest purposes pursued by such data use and the description of the technical means used for it, including a description of the techniques used to preserve privacy and data protection in accordance with Union and national law;
 
 (d) a summary of the results of the data uses allowed by the entity, where applicable;
 
 (e) information on sources of revenue of the entity, in particular all revenue resulted from allowing access to the data, and on expenditure.
 
-### Article 19 Specific requirements to safeguard rights and interests of data subjects and legal entities as regards their data
+(ea) in case where a notification pursuant to Article 21(3) has taken place, a description of the measures taken in order to address the finding of noncompliance with one or more of the requirements of this Chapter.
+
+### Article 19 Specific requirements to safeguard rights and interests of data subjects and data holders as regards their data
 
 (1) Any entity entered in the register of recognised data altruism organisations shall inform data holders:
 
-(a) about the purposes of general interest for which it permits the processing of their data by a data user in an easy-to-understand manner;
+(a) about the purposes of general interest for which it permits the processing of their data by a data user within the Union, in an easy-to-understand manner;
 
-(b) about any processing outside the Union.
+(b) about any intention of the data user to process data outside the Union by specifying the location of such processing.
 
-(2) The entity shall also ensure that the data is not be used for other purposes than those of general interest for which it permits the processing.
+(2) The entity shall also ensure that the data is not used for any other purposes than those of general interest for which it permits the processing. To that extent, the entity shall put in place measures to monitor the processing of data carried out by the data user.
+
+The entity shall put in place measures in order to prevent fraudulent or abusive practices in relation to access to data from parties seeking access through their services.
+
+The entity shall take measures to ensure a high level of security for the storage and processing of non-personal data.
+
+The entity shall ensure that consent from data subjects or permissions to process data made available by legal persons can be easily withdrawn.
+
+The entity shall also guarantee that data holders reserve the right to obtain access to and to retrieve their data if they decide to withdraw their permission to process their data for data altruism purposes.
+
+Safeguards shall be provided to ensure that misleading marketing practices are not used to solicit the provision of data.
 
 (3) Where an entity entered in the register of recognised data altruism organisations provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons, it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place.
 
@@ -110,6 +122,8 @@ In order to qualify for registration, the data altruism organisation shall:
 
 (b) be removed from the register of recognised data altruism organisations.
 
+(5a) However, non-compliance with the requirement of Article 19(2) shall result in a decision to remove the entity from the register of recognised data altruism organisations.
+
 (6) If an entity included in the register of recognised data altruism organisations has its main establishment or legal representative in a Member State but is active in other Member States, the competent authority of the Member State of the main establishment or where the legal representative is located and the competent authorities of those other Member States shall cooperate and assist each other as necessary. Such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the supervisory measures referred to in this Article.
 
 ### Article 22 European data altruism consent form
@@ -121,3 +135,7 @@ In order to qualify for registration, the data altruism organisation shall:
 (3) Where personal data are provided, the European data altruism consent form shall ensure that data subjects are able to give consent to and withdraw consent from a specific data processing operation in compliance with the requirements of Regulation (EU) 2016/679.
 
 (4) The form shall be available in a manner that can be printed on paper and read by humans as well as in an electronic, machine-readable form.
+
+(4a) Where non-personal data are provided, the European data altruism consent form shall ensure that data holders are able to give permissions to and withdraw permissions from a specific data processing operation notably in case of misuse of data. 
+
+To that extent, the European data altruism consent form shall allow to specify the purposes for the intended uses.
