@@ -112,36 +112,42 @@ To that end, public sector bodies may establish a list of categories of re-users
 
 ### Article 7 Competent bodies
 
-(1) Member States shall designate one or more competent bodies, which may be sectoral, to support the public sector bodies which grant access to the re-use of the categories of data referred to in Article 3 (1) in the exercise of that task.
+(1) Member States shall designate one or more competent bodies, which may be sectoral, to support the public sector bodies which grant access to the re-use of the categories of data referred to in Article 3 (1) in the exercise of that task. In order to fulfil the requirements set out in this Regulation, Member States may delegate the tasks to an existing competent body or bodies, as long as requirements laid down in paragraph 4 are of this Article are met.
 
 (2)The support provided for in paragraph 1 shall include, where necessary:
 
 (a) providing technical support by making available a secure processing environment for providing access for the re-use of data;
 
-(aa) providing guidance and technical support on how to best structure and store data to make data easily accessible, in particular through application programming interfaces, as well as interoperable, transferable and searchable, taking into account best practices for data processing;
+(aa) providing guidance and technical support on how to best structure and store data to make data easily accessible, in particular through application programming interfaces, interoperable, transferable and searchable, taking into account best practices for data processing, as well as any existing regulatory and technical standards;
 
-(b)  providing technical support in the application of tested techniques ensuring data processing in a manner that preserves privacy of the information contained in the data for which re-use is allowed, including techniques for pseudonymisation, anonymisation, generalisation, suppression and randomisation of personal data;
+(b)  providing technical support for the pseudonymisation and ensuring data processing in a manner that effectively preserves the privacy, integrity and accessibility of the information contained in the data for which re-use is allowed, including techniques for the anonymisation, generalisation, suppression and randomisation of personal data or other state-ofthe-art privacy preserving methods, and the deletion of commercially confidential information, including trade secrets or content protected by intellectual property rights;
 
-(c)  assisting the public sector bodies, where relevant, in obtaining consent or permission by re-users for re-use for altruistic and other purposes in line with specific decisions of data holders, including on the jurisdiction or jurisdictions in which the data processing is intended to take place and assisting the public sector bodies in establishing technical mechanisms that allow transmitting requests for consent from re- users, where that is practically feasible;
+(c)  assisting the public sector bodies, where relevant, in obtaining consent or permission by re-users for re-use for altruistic and other purposes in line with specific decisions of data holders, including on the jurisdiction or jurisdictions in which the data processing is intended to take place and assisting the public sector bodies in establishing technical mechanisms that allow the transmission of requests for consent from re-users, where practically feasible;
 
-(d)  providing public sector bodies with assistance on the adequacy of undertakings made by a re-user, pursuant to Article 5 (10).
+(ca) developing a harmonised approach and processes, where applicable, for public sector bodies to make scientific data available for purposes of research;
+
+(d)  providing public sector bodies with assistance on the adequacy and compiance of undertakings made by a re-user, pursuant to Article 5 (10).
 
 (3) The competent bodies may also be entrusted, pursuant Union or national law which provides for such access to be given, to grant access for the re-use of the categories of data referred to in Article 3 (1). While performing their function to grant or refuse access for re-use, Articles 4, 5 and 6 shall apply in regard to such competent bodies.
 
-(3a) Request for the re-use of the categories of data referred to in Article 3(1) shall be granted or refused by the competent public sector bodies or the competent bodies referred to in paragraph 1 of this Article within a reasonable time and in any case within two months of the date of the request.
+(3a) Requests for the re-use of the categories of data referred to in Article 3(1) shall be granted or refused by competent public sector bodies or the competent bodies referred to in paragraph 1 of this Article without delay and in any event within two months of the date of the request. In order to contribute to a consistent application of this Regulation, competent public sector bodies shall cooperate with each other, and where relevant with the Commission, when refusing requests for the re-use of the categories of data referred to in Article 3 (1).
 
-(3b) 3b. Any natural or legal affected by a decision of a public sector body or of a competent body, as the case may be, shall have the right to an effective judicial remedy against such decision before the courts of the Member State where the relevant body is located.
+(3b) 3b. Any natural or legal person affected by a decision of a public sector body or of a competent body, as the case may be, shall have the right to an effective judicial remedy against such a decision before the courts of the Member State where the relevant body is located.
 
-(4) The competent body or bodies shall have adequate legal and technical capacities and expertise and shall be sufficiently staffed with skilled personnel to be able to comply with relevant Union or national law concerning the access regimes for the categories of data referred to in Article 3(1).
+(4) The competent body or bodies shall have adequate legal, financial and technical capacities and expertise and shall be sufficiently staffed with skilled personnel to be able to comply with relevant Union or national law concerning the access regimes for the categories of data referred to in Article 3(1).
 
-(5) The Member States shall communicate to the Commission the identity of the competent bodies designated pursuant to paragraph 1 by [date of application of this Regulation]. They shall also communicate to the Commission any subsequent modification of the identity of those bodies.
+(5) The Member States shall make public and communicate to the Commission the identity of the competent bodies designated pursuant to paragraph 1 by [date of application of this Regulation]. They shall also make public and communicate to the Commission any subsequent modification of the identity of those bodies.
 
 ### Article 8 Single information point
 
-(1) Member States shall ensure that all relevant information concerning the application of Articles 5 and 6 is available through a single information point.
+(1) Member States shall ensure that all relevant information concerning the application of Articles 5 and 6 is available and easily accessible through a single information point.
 
-(2) The single information point shall receive requests for the re-use of the categories of data referred to in Article 3 (1) and shall transmit them to the competent public sector bodies, or the competent bodies referred to in Article 7 (1), where relevant. The single information point shall make available by electronic means a searchable register of available data resources containing relevant information describing the nature of available data, including at least the data format and size and the conditions for its re-use.
+(2) The single information point shall receive requests for the re-use of the categories of data referred to in Article 3 (1) and shall transmit them, where possible and appropriate by automated means, to the competent public sector bodies, or the competent bodies referred to in Article 7 (1), where relevant. The single information point shall make available by electronic means a searchable register of available data resources containing relevant information describing the nature of available data, including at least the data format and size and the conditions for its re-use.
 
-(2a) The single information point shall offer an electronic, public register of single information points of all other Member States.
+(2a) The single information point shall offer an electronic, public register of single information points of all other Member States and shall be linked to the Single Digital Gateway established by Regulation (EU) 2018/1724 of the European Parliament and of the Councilxx.
+
+xx Regulation (EU) 2018/1724 of the European Parliament and of the Council of 2 October 2018 establishing a single digital gateway to provide access to information, to procedures and to assistance and problem-solving services and amending Regulation (EU) No 1024/2012 (OJ L 295, 21.11.2018, p. 1)
+
+(2aa) The single information point may establish a separate, simplified and well-documented information channel for SMEs and start-ups, addressing their needs and capabilities in requesting the re-use of the categories of data referred to in Article 3 (1).
 
 (2b) The Commission shall establish a European single information point offering a searchable electronic register of data available in national single information points and further information on how to request data via those single information points.
