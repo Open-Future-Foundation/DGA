@@ -32,6 +32,8 @@ For the purpose of this Regulation, the following definitions apply:
 
 (2)‘re-use’ means the use by natural or legal persons of data held by public sector bodies, for commercial or non-commercial purposes other than the initial purpose within the public task for which the data were produced, except for the exchange of data between public sector bodies purely in pursuit of their public tasks;
 
+(2a) 'personal data' means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;
+
 (2b) 'data subject' means data subject as defined in Article 4, point (1), of Regulation (EU) 2016/679;
 
 (3)‘non-personal data’ means data other than personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;
