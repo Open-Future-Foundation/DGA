@@ -20,41 +20,45 @@ In order to ensure that providers of data intermediation services recognised in 
 
 Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 29(2).
 
-### Article 10 Notification of data sharing service providers
+### Article 10 Notification of data intermediation services
 
-(1) Data intermediaries providing the services referred to in Article 9 (1) shall submit a notification to the competent authority referred to in Article 12.
+(1) Providers of data intermediation services providing the services referred to in Article 9 (1) shall submit a notification to the competent authority referred to in Article 12.
 
-(2) For the purposes of this Regulation, data intermediary with establishments in more than one Member State, shall be deemed to be under the jurisdiction of the Member State in which it has its main establishment.
+(2) For the purposes of this Regulation, a provider of data intermediation services with establishments in more than one Member State, shall be deemed to be under the jurisdiction of the Member State in which it has its main establishment, without prejudice to Union law regulating cross-border actions for damages and related proceedings.
 
-(3) A data intermediary that is not established in the Union, but offers the services referred to in Article 9 (1) within the Union, shall appoint a legal representative in one of the Member States in which those services are offered. The data intermediary shall be deemed to be under the jurisdiction of the Member State in which the legal representative is established.
+(3) A provider of data intermediation services that is not established in the Union, but offers the services referred to in Article 9(1) within the Union, shall appoint designate a legal representative in one of the Member States in which those services are offered. For the purposes of ensuring compliance with this Regulation, the legal representative shall be empowered by the provider of data intermediation services to act on its behalf or together with it, in particular when addressed by competent authorities or data subjects and data holders, with regard to all issues related to the data intermediation services provided. The legal representative shall perform its tasks in accordance with the mandate received from the provider of data intermediation services, including cooperating with and comprehensively demonstrating to the competent authorities, upon request, the actions taken and provisions put in place by the provider to ensure compliance with this Regulation. The provider of data intermediation services shall be deemed to be under the jurisdiction of the Member State in which the legal representative is established.
 
-(4) Upon notification, the data intermediary may start the activity subject to the conditions laid down in this Chapter.
+(4) Upon notification, the provider of data intermediation services may start the activity subject to the conditions laid down in this Chapter.
 
-(5) The notification shall entitle the data intermediary in all Member States.
+(5) The notification shall entitle the provider of data intermediation services to provide intermediation services in all Member States.
 
 (6) The notification shall include the following information:
 
-(a) the name of the data intermediary;
+(a) the name of the provider of data intermediation services;
 
-(b) the provider’s legal status, form and registration number, where the provider is registered in trade or in another similar public register;
+(b) the provider of data intemrediation services’ legal status, form, ownership structure, relevant subsidiaries and registration number, where the provider is registered in trade or in another similar public register;
 
-(c) the address of the data intermediary's main establishment in the Union, if any, and, where applicable, any secondary branch in another Member State or that of the legal representative designated pursuant to paragraph 3;
+(c) the address of the provider of data intermediation services' main establishment in the Union, if any, and, where applicable, any secondary branch in another Member State or that of the legal representative designated pursuant to paragraph 3;
 
-(d) a website where information on the data intermediary and the activities can be found, where applicable;
+(d) a website where complete and up-to-data information on the provider of data intermediation services and the activities can be found, where applicable;
 
-(e) the data intermediary’s contact persons and contact details;
+(e) the provider of data intermediation services' contact persons and contact details;
 
-(f) a description of the service the data intermediary intends to provide;
+(f) a description of the service the provider of data intermediation services intends to provide;
 
-(g) the estimated date for starting the activity;
+(g) the estimated date for starting the activity, or the data on which the activity started;
 
-(7) At the request of the data intermediary, the competent authority shall, within one week, issue a standardised declaration, confirming that the data intermediary has submitted the notification referred to in paragraph 4.
+(6a) The competent authority shall ensure that the notification procedure does not impose undue obstacles for SMEs, start-ups and civil society organisations and ensures non-discrimination and competition.
 
-(9) The competent authority shall notify the Commission of each new notification. The Commission shall keep a public register of all data intermediaries.
+(7) At the request of the provider of data intermediation services, the competent authority shall, within one week, issue a standardised declaration, confirming that the provider of data intermediation services has submitted the notification referred to in paragraph 4 and that the notification contains the information referred to in paragraph 6.
 
-(10) The competent authority may charge fees. Such fees shall be proportionate and objective and be based on the administrative costs related to the monitoring of compliance and other market control activities of the competent authorities in relation to notifications of data sharing services.
+(9) The competent authority shall notify the competent authorities referred to in Article 12 and the Commission of each new notification without delay by electonic means. The Commission shall keep and regularly update a public register of all providers of data intermediation services in the Union.
 
-(11) Where a data intermediary ceases its activities, it shall notify the relevant competent authority determined pursuant to paragraphs 1, 2 and 3 within 15 days. The competent authority shall forward without delay each such notification to the national competent authorities in the Member States and to the Commission by electronic means.
+(10) The competent authority may charge fees. Such fees shall be proportionate and objective and be based on the administrative costs related to the monitoring of compliance and other market control activities of the competent authorities in relation to notifications of providers of data intermediation services. The competent authority may also charge discounted fees or allow free of charge notification for SMEs and start-ups.
+
+(10a) Providers of data intermediation services shall submit any changes of the information provided pursuant to paragraph 6 to the competent authority within 14 calendar days from the day on which the change takes place.
+
+(11) Where a provider of data intermediation services ceases its activities, it shall notify the relevant competent authority determined pursuant to paragraphs 1, 2 and 3 within 15 days. The competent authority shall forward without delay each such notification to the national competent authorities in the Member States and to the Commission by electronic means. The Commission shall update the public register of providers of data intermediation services in the Union accordingly.
 
 ### Article 11 Conditions for providing data intermediation services
 
@@ -94,27 +98,29 @@ The provision of data sharing services referred in Article 9 (1) shall be subjec
 
 (2) The designated competent authorities shall comply with Article 23.
 
-(3) The designated competent authorities, the data protection authorities, the national competition authorities, the authorities in charge of cybersecurity, and other relevant sectorial authorities shall exchange the information which is necessary for the exercise of their tasks in relation to data intermediaries.
+(3) The powers of the designated competent authorities are without prejudice to the powers of the data protection authorities, the national competition authorities, the authorities in charge of cybersecurity, and other relevant sectorial authorities. In accordance with their respective competences under Union and Member State law, those authorities shall build up a strong cooperation and exchange the information which is necessary for the exercise of their tasks in relation to providers of data intermediation services, and ensure the consistency of the decisions taken in applying this Regulation. On any question regarding compliance with Regulation (EU) 2016/679, the competent supervisory authorities established pursuant to that Regulation are fully competent.
 
 ### Article 13 Monitoring of compliance
 
 (1) The competent authority shall monitor and supervise compliance with this Chapter.
 
-(2) The competent authority shall have the power to request from data intermediaries or their legal representatives all the information that is necessary to verify compliance with the requirements laid down in Articles 10 and 11. Any request for information shall be proportionate to the performance of the task and shall be reasoned.
+(2) The competent authority shall have the power to request from providers of data intermediation services or their legal representatives all the information that is necessary to verify compliance with the requirements laid down in Articles 10 and 11. Any request for information shall be proportionate to the performance of the task and shall be reasoned.
 
-(3) Where the competent authority finds that a data intermediary does not comply with one or more of the requirements laid down in Article 10 or 11, it shall notify that data intermediary of those findings and give it the opportunity to state its views, within a reasonable time limit.
+(3) Where the competent authority finds that a provider of data intermediation services does not comply with one or more of the requirements laid down in Article 10 or 11, it shall notify that provider of data intermediation services of those findings and give it the opportunity to state its views, within the shortest delay.
 
-(4) The competent authority shall have the power to require the cessation of the breach referred to in paragraph 3 either immediately or within a reasonable time limit and shall take appropriate and proportionate measures aimed at ensuring compliance. In this regard, the competent authorities shall be able, where appropriate:
+(4) The competent authority shall have the power to require the cessation of the infringement referred to in paragraph 3 within a reasonable time limit or immediately in the case of a serious infringement and shall take appropriate and proportionate measures aimed to ensure compliance. In this regard, the competent authorities shall have the power, where appropriate:
 
 (a) to impose dissuasive financial penalties which may include periodic penalties with retroactive effect;
 
-(b) to require cessation or postponement of the provision of the data sharing service.
+(b) to require a temporary cessation of the provision of the data intermediation service, or in the case of a serious infringement that has not been remedied, despite being previously identified and communicated, a permanent cessation.
 
-(5) The competent authorities shall communicate the measures imposed pursuant to paragraph 4 and the reasons on which they are based to the entity concerned without delay and shall stipulate a reasonable period for the entity to comply with the measures.
+(4a) Where a provider of data intermediation services that is not established in the Union fails to designate a legal representative or the legal representative fails, upon request by the competent authority, to provide the necessary information that comprehensively demonstrates compliance with this Regulation, the competent authority shall have the power to impose the immediate cessation of the provision of the data intermediation service.
 
-(6) If a data intermediary has its main establishment or legal representative in a Member State, but provides services in other Member States, the competent authority of the Member State of the main establishment or where the legal representative is located and the competent authorities of those other Member States shall cooperate and assist each other. Such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the measures referred to in this Article.
+The designation of a legal representative by a provider of data intermediation services shall be without prejudice to legal actions that could be initiated against the provider itself.
 
-(6a) Upon the request of a data intermediary the competent authority shall confirm that the data intermediary complies with the requirements laid down Articles 10 and 11.
+(5) The competent authorities shall communicate the measures imposed pursuant to paragraph 4, the reasons on which they are based as well as the necessary steps to be taken to rectify the relevant shortcomings to the provider of data intermediation services concerned without delay and shall stipulate a reasonable period for the provider to comply with the measures.
+
+(6) If a provider of data intermediation services has its main establishment or legal representative in a Member State, but provides services in other Member States, the competent authority of the Member State of the main establishment or where the legal representative is located and the competent authorities of those other Member States shall cooperate and assist each other. Such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the measures referred to in this Article.
 
 ### Article 14 Exceptions
 
