@@ -30,7 +30,7 @@
 
 ### Article 4 Prohibition of exclusive arrangements
 
-(1) Agreements or other practices pertaining to the re-use of data held by public sector bodies containing categories of data referred to in Article 3 (1) which grant exclusive rights or which have as their object or effect to grant such exclusive rights or to restrict the availability of data for re-use by entities other than the parties to such agreements or other practices shall be prohibited.
+(1) Agreements or other practices pertaining to the re-use of data held by public sector bodies containing categories of data referred to in Article 3 (1) which grant exclusive rights or which have as their object or effect to grant such exclusive rights or to restrict the availability of data for re-use by entities other than the parties to such agreements or other practices shall be prohibited. Such agreeements or practices and the exclusive rights granted pursuant to them shall be void. 
 
 (2) By way of derogation from paragraph 1, an exclusive right to re-use data referred to in that paragraph may be granted to the extent necessary for the provision of a service or a product in the general interest.
 
@@ -38,9 +38,9 @@
 
 (4) In all cases not covered by paragraph 3 and where the general interest purpose cannot be fulfilled without granting an exclusive right, the principles of transparency, equal treatment and non-discrimination on grounds of nationality shall apply. 
 
-(5) The period of exclusivity of the right to re-use data shall not exceed 12 months with the possibility of a further 12-month extension, subject to approval by the competent body referred to in Article 7(1). Where a contract is concluded, the duration of the contract awarded shall be as aligned with the period of exclusivity.
+(5) The period of exclusivity of the right to re-use data shall not exceed 12 months. Where a contract is concluded, the duration of the contract awarded shall be as aligned with the period of exclusivity.
 
-(6) The award of an exclusive right pursuant to paragraphs (2) to (5), including the reasons why it is necessary to grant such a right, shall be transparent and be made publicly available online, regardless of a possible publication of an award of a public procurement and concessions contract.
+(6) The award of an exclusive right pursuant to paragraphs (2) to (5), including the reasoned justification why it is necessary to grant such a right, shall be transparent and be made publicly available online, regardless of a possible publication of an award of a public procurement and concessions contract.
 
 (7) Agreements or other practices falling within the scope of the prohibition in paragraph 1, which do not meet the conditions set out in paragraph 2, and which were concluded before the date of entry into force of this Regulation shall be terminated at the end of the contract and in any event at the latest within two years after the date of entry into force of this Regulation.
 
