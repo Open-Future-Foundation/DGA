@@ -2,11 +2,11 @@
 
 ### Article 23 Requirements relating to competent authorities
 
-(1) The competent authorities designated pursuant to Article 12 and Article 20 shall be legally distinct from, and functionally independent of any data intermediary or entity included in the register of recognised data altruism organisations.
+(1) The competent authorities designated pursuant to Article 12 and Article 20 shall be legally distinct from, and functionally independent of any provider of data intermediation services or entity included in the public national register of recognised data altruism organisations. The functions of the competent authorities designated pursuant to Articles 12 and 20 may be carried out by the same entity. Member States may decide to assign the competences under this Regulation to the supervisory authorities designated under Regulation (EU) 2016/679.
 
-(2) Competent authorities shall exercise their tasks in an impartial, transparent, consistent, reliable and timely manner.
+(2) Competent authorities shall exercise their tasks in an impartial, transparent, consistent, reliable and timely manner and shall safeguard fair competition and non-discriminatory access for natural persons and SMEs and start-ups at all times.
 
-(3) The top-management and the personnel responsible for carrying out the relevant tasks of the competent authority provided for in this Regulation cannot be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the services which they evaluate, nor the authorised representative of any of those parties or represent them. This shall not preclude the use of evaluated services that are necessary for the operations of the competent authority or the use of such services for personal purposes.
+(3) The top-management and the personnel responsible for carrying out the relevant tasks of the competent authority provided for in this Regulation cannot be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the services which they evaluate, nor the legal representative of any of those parties or represent them. This shall not preclude the use of evaluated services that are necessary for the operations of the competent authority or the use of such services for personal purposes.
 
 (4) Top-management and personnel shall not engage in any activity that may conflict with their independence of judgment or integrity in relation to evaluation activities entrusted to them.
 
@@ -16,7 +16,7 @@
 
 ### Article 24 Right to lodge a complaint
 
-(1) Natural and legal persons shall have the right to lodge a complaint with the relevant national competent authority against a data intermediary or an entity entered in the register of recognised data altruism organisations.
+(1) Natural and legal persons shall have the right to lodge a complaint, individually or collectively, with the relevant national competent authority against a provider of data intermediation services or an entity entered in the public national register of recognised data altruism organisations.
 
 (2) The authority with which the complaint has been lodged shall inform the complainant of the progress of the proceedings and of the decision taken, and shall inform the complainant of the right to an effective judicial remedy provided for in Article 25.
 
@@ -26,6 +26,6 @@
 
 (a) a failure to act on a complaint lodged with the competent authority referred to in Articles 12 and 20;
 
-(b) decisions of the competent authorities referred to in Articles 13, 17 and 21 taken in the management, control and enforcement of the notification regime for data intermediaries and the monitoring of entities entered into the register of recognised data altruism organisations.
+(b) decisions of the competent authorities referred to in Articles 13, 17 and 21 taken in the management, control and enforcement of the notification regime for providers of data intermediation services and the monitoring of entities entered into the public national register of recognised data altruism organisations. 
 
-(2) Proceedings pursuant to this Article shall be brought before the courts of the Member State in which the authority against which the judicial remedy is sought is located.
+(2) Proceedings pursuant to this Article shall be brought before the courts of the Member State in which the authority against which the judicial remedy is sought is located individually or collectively.
