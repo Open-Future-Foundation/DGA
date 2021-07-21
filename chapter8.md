@@ -22,11 +22,35 @@ The addressee of the decision shall ask the opinion of the relevant competent bo
 
 ### Article 31 Penalties
 
-Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall notify the Commission of those rules and measures by [date of application of the Regulation] and shall notify the Commission without delay of any subsequent amendment affecting them.
+Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. In their rules on penalties, Member States shall take into account the recommendations of the European Data Innovation Board. Member States shall notify the Commission of those rules and measures by [date of application of the Regulation] and shall notify the Commission without delay of any subsequent amendment affecting them.
+
+Member States shall ensure that the following nonexhaustive and indicative criteria are taken into account for the imposition of penalties on providers of data intermediation services and data altruism organisations for infringements of this Regulation, where appropriate:
+
+(a) the nature, gravity, scale and duration of the infringement;
+
+(b) any action taken by the provider of data intermediation services to mitigate or remedy the damage caused by the infringement;
+
+(c) any previous infringements by the provider of data intermediation services;
+
+(d) the financial benefits gained or losses avoided by the provider of data intermediation services due to the infringement, insofar as such gains or losses can be reliably established;
+
+(e) penalties imposed on the provider of data intermediation services for the same infringement in other Member States in cross-border cases where information about such penalties is available;
+
+(f) any other aggravating or mitigating factors applicable to the circumstances of the case.
 
 ### Article 32 Evaluation and review
 
-By [two years after the date of application of this Regulation], the Commission shall carry out an evaluation of this Regulation, and submit a report on its main findings to the European Parliament and to the Council as well as to the European Economic and Social Committee. Member States shall provide the Commission with the information necessary for the preparation of that report.
+By [two years after the date of application of this Regulation], the Commission shall carry out an evaluation of this Regulation, and submit a report on its main findings to the European Parliament and to the Council as well as to the European Economic and Social Committee. 
+
+That evaluation shall assess, in particular:
+
+(a) the application and functioning of the rules on penalties laid down by the Member States pursuant to Article 31, in particular focusing on the existence of large discrepancies between the penalties imposed for infringements of this Regulation among Member States that might distort competition across the Union, taking into account the recommendations of the Board and the positions and findings of other relevant bodies and sources;
+
+(b) the level of compliance of the legal representatives of providers of data intermediation services and data altruism organisations not established in the Union with this Regulation and the level of enforceability of penalties on those providers;
+
+(c) the type of data altruism organisations registered under Chapter IV and overview of the purposes of general interests for which data are shared in view of establishing clear criteria in that respect.
+
+Member States shall provide the Commission with the information necessary for the preparation of that report. The report shall be accompanied, where necessary, by legislative proposals.
 
 ### Article 33 Amendment to Regulation (EU) No 2018/1724
 
@@ -35,7 +59,7 @@ In Annex II to Regulation (EU) No 2018/1724, the following line is added under â
 <table>
  <tr>
   <td rowspan="2">Starting, running and closing a business</td>
-  <td>Notification as a data intermediary</td>
+  <td>Notification as a provider of data intermediation services </td>
   <td>Confirmation of the receipt of notification</td>
  </tr>
  <tr>
@@ -46,7 +70,7 @@ In Annex II to Regulation (EU) No 2018/1724, the following line is added under â
 
 ### Article 34 Transitional arrangements
 
-Entities providing the data sharing services provided in Article 9(1) on the date of entry into force of this Regulation shall comply with the obligations set out in Chapter III by [date - 2 years after the start date of the application of the Regulation] at the latest.
+Entities providing the data intermediation services provided in Article 9(1) on the date of entry into force of this Regulation shall comply with the obligations set out in Chapter III by [date - 2 years after the start date of the application of the Regulation] at the latest.
 
 ### Article 35 Entry into force and application
 
