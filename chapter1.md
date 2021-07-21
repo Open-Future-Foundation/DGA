@@ -50,7 +50,7 @@ For the purpose of this Regulation, the following definitions apply:
 
 (9)‘main establishment’ of a legal entity means the place of its central administration in the Union;
 
-(10)‘data altruism’ means the consent by data subjects to process personal data pertaining to them, or permissions of other data holders to allow the use of their non-personal data without seeking a reward, for purposes of general interest, such as scientific research purposes or improving public services;
+(10)‘data altruism’ means voluntary sharing of data based on consent by data subjects to process personal data pertaining to them, or permissions of other data holders to allow the use of their non-personal data without seeking or receiving a reward, for purposes of general interest, such as healthcare, combating climate change, improving mobility, facilitating the establishment of official statistics, improving public services or scientific research purposes in the general interest
 
 (11)‘public sector body’ means the State, regional or local authorities, bodies governed by public law or associations formed by one or more such authorities or one or more such bodies governed by public law;
 
