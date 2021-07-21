@@ -1,20 +1,26 @@
 ## CHAPTER III REQUIREMENTS APPLICABLE TO DATA SHARING SERVICES
 
-### Article 9 Data intermediaries
+### Article 9 Data intermediation services
 
-(1) Data intermediaries providing the following data sharing services shall be subject to a notification procedure:
+(1) This Chapter applies to the provision of data intermediation services. These include:
 
-(a) intermediation services between data holders which are legal persons and potential data users, including making available the technical or other means to enable such services; those services may include bilateral or multilateral exchanges of data or the creation of platforms or databases enabling the exchange or joint exploitation of data, as well as the establishment of a specific infrastructure for the interconnection of data holders and data users;
+(a) intermediation services between data holders and potential data users, including making available the technical or other means to enable such services; those services may include bilateral or multilateral exchanges of data or the creation of platforms or databases enabling the exchange or joint exploitation of data, as well as the establishment of a specific infrastructure for the interconnection of data holders and data users;
 
-(b) intermediation services between data subjects that seek to make their personal data available and potential data users, including making available the technical or other means to enable such services, in the exercise of the rights provided in Regulation (EU) 2016/679;
+(b) intermediation services between data subjects that seek to make their personal data available and potential data users, including making available the technical or other means to enable such services, and in particular enabling the exercise of data subjects' rights provided in Regulation (EU) 2016/679;
 
 (c) services of data cooperatives.
 
-(2) This Chapter shall be without prejudice to the application of other Union and national law to data intermediaries, including powers of supervisory authorities to ensure compliance with applicable law, in particular as regard the protection of personal data and competition law.
+(2) This Chapter shall be without prejudice to the application of other Union and national law to data intermediation services, including powers of supervisory authorities to ensure compliance with applicable law, in particular as regard the protection of personal data and competition law.
 
-(2a) If the competent authority referred to in Article 12 has confirmed that a data intermediary complies with the requirements laid down in Articles 10 and 11 that data intermediary may refer to itself as a ‘data intermediary recognised in the Union’ in its written and spoken communication.
+(2a) The provision of data intermediation services shall be subject to Articles 10 and 11.
 
-### Article 10 Notification of data intermediaries
+(2b) The competent authority referred to in Article 12 shall confirm, upon the request of a provider of data intermediation services, that the provider complies with Articles 10 and 11. Upon receipt of such a confirmation, that provider may use the title ‘provider of data intermediation services recognised in the Union’ in its written and spoken communication, as well as a common logo.
+
+In order to ensure that providers of data intermediation services recognised in the Union are easily identifiable throughout the Union, the Commission shall, by means of implementing acts, establish a design for the common logo. Providers of data intermediation services recognised in the Union shall display the common logo clearly on every online and offline publication that relates to their data intermediation activities.
+
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 29(2).
+
+### Article 10 Notification of data sharing service providers
 
 (1) Data intermediaries providing the services referred to in Article 9 (1) shall submit a notification to the competent authority referred to in Article 12.
 
@@ -50,35 +56,37 @@
 
 (11) Where a data intermediary ceases its activities, it shall notify the relevant competent authority determined pursuant to paragraphs 1, 2 and 3 within 15 days. The competent authority shall forward without delay each such notification to the national competent authorities in the Member States and to the Commission by electronic means.
 
-### Article 11 Conditions for data intermediaries providing data sharing services
+### Article 11 Conditions for providing data intermediation services
 
 The provision of data sharing services referred in Article 9 (1) shall be subject to the following conditions:
 
-(1) the data intermediary shall use the data for which it provides services only in the context of the provision of services referred to in Article 9(1); those data sharing services shall be placed in a separate legal entity;
+(1) the provider of data intermediation services may not use the data for which it provides services for other purposes than to put them at the disposal of data users; data intermediation services shall be placed in a separate legal entity;
 
-(2) the metadata collected from the provision of the data sharing service shall be used only for the development of that service, which may entail the use of metadata for the detection of fraud or cybersecurity threat monitoring;
+(1a) the commercial terms, including pricing, for the provision of data intermediation services to a data holder or data user may not be made dependent upon whether or to what degree the data holder or data user uses other services from the same provider, or a related entity;
 
-(3) the data intermediary shall ensure that the procedure for access to its service is fair, transparent and non-discriminatory for both data holders and data users, including as regards prices as well as terms of service;
+(2) the data collected with respect to any activity of a natural or legal person for the purposes of the provision of the data sharing intermediation service, including the date, time and geolocation data, duration of activity and connections to other natural or legal persons established by the person who uses the service, shall be used only for the development of that service, which may entail the use of data for the detection of fraud or cybersecurity, and shall be made available to the data holders upon request;
 
-(4) the data intermediary shall facilitate the exchange of the data in the format in which it receives it from the data holder and shall convert the data into specific formats only to enhance interoperability within and across sectors or if requested by the data user or where mandated by Union law or to ensure harmonisation with international or European data standards;
+(3) the provider of data intermediation services shall ensure that the procedure for access to its service is fair, transparent and non-discriminatory for both data subjects and data holders as well as for data users, including as regards prices and terms of service;
 
-(4a) the data intermediary may offer tools capable of analysis, aggregation, improving the quality or conversion of data to data holders or data users, and those tools shall be used only at the explicit request or approval of the data holder and third-party tools offered in that context shall not use data for purposes other than those requested or approved by the data holder;
+(4) the provider of data intermediation service shall facilitate the exchange of the data in the format in which it receives it from the data holder and shall convert the data into specific formats only to enhance interoperability within and across sectors or if requested by the data user or where mandated by Union law or to ensure harmonisation with international or European data standards;
 
-(5) the data intermediary shall have procedures in place to prevent fraudulent or abusive practices in relation to access to data from parties seeking access through their services;
+(4a) data intermediation services may include offering additional specific tools and services to data holders or data subjects for the purpose of facilitating the exchange of data, such as analysis, temporary storage, aggregation, curation, conversion, anonymisation, pseudonymisation; those tools and services shall be used only at the explicit request or approval of the data holder or data subject and third-party tools offered in that context shall not use data for other purposes;
 
-(6) the data intermediary shall ensure a reasonable continuity of provision of its services and, in the case of services which ensure storage of data, shall have sufficient guarantees in place that allow data holders and data users to obtain access to their data in case of insolvency;
+(5) the provider of data intermediation service shall have procedures and measures in place to prevent and monitor potential fraudulent or abusive practices in relation to access to data from parties seeking access through their services;
 
-(6a) the data intermediary shall avoid  lock-in effects and shall ensure interoperability with other data sharing services to the extent technically reasonable, in particular as regards data formats and other data standards;
+(6) the provider of data intermediation service shall ensure a reasonable continuity of provision of its services and, in the case of services which ensure storage of data, shall have sufficient guarantees in place that allow data holders and data users to obtain access to, to transfer or to retrieve their data or, in the case of providing intermediation services between data subjects and data users, allow data subjects to exercise their rights, in case of insolvency of the provider;
 
-(7) the data intermediary shall put in place adequate technical, legal and organisational measures in order to prevent transfer or access to non-personal data that is unlawful under Union law;
+(6a) the provider of data intermediation services shall avoid lock-in effects and shall ensure interoperability with other data intermediation services to the extent appropriate, in particular as regards data formats and other data standards and by means of commonly used, formal or informal, open standards in the sector in which the data intermediation services operate. To that effect, within 12 months of entry into force of this Regulation, the Commission shall, in consultation with the Data Innovation Board, develop guidance on interoperability standards;
 
-(8) the data intermediary shall take measures to ensure a high level of security, including state-of-the-art cybersecurity, for the storage and transmission of non- personal data and the intermediary shall further ensure the highest level of security, including state-of-the-art cybersecurity, for the storage and transmission of competitively sensitive information;
+(7) the provider of data intermediation service shall put in place adequate technical, legal and organisational measures in order to prevent transfer or access to non-personal data that is unlawful under Union law;
 
-(9) the data intermediary shall ensure compliance with Union and national law, in particular rules on competition and data protection;
+(8) the provider of data intermediation services shall take measures to ensure a high level of security, including state-of-the-art cybersecurity, for the storage, processing and transmission of non-personal data, and the provider shall further ensure the highest level of security, including state-of-the-art cybersecurity, for the storage and transmission of competitively sensitive information and shall inform the competent authority without delay of any security breach that jeopardises the security of such data;
 
-(10) the data intermediary offering services to data subjects shall act in the data subjects’ best interest when facilitating the exercise of their rights, in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses;
+(9) the provider of data intermediation service shall ensure compliance with Union and national law, in particular rules on competition and data protection; where such rules impose stricter or more detailed obligations, they shall prevail;
 
-(11) where a data intermediary provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons, it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place.
+(10) the provider of data intermediation services offering services to data subjects shall act in the data subjects’ best interest when facilitating the exercise of their rights, in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses;
+
+(11) where a provider of data intermediation services provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons, it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place and provide to the data subject tools for tracking the use of that data and consent withdrawal and data holders with tools for permission withdrawal.
 
 ### Article 12 Competent authorities
 
@@ -110,4 +118,4 @@ The provision of data sharing services referred in Article 9 (1) shall be subjec
 
 ### Article 14 Exceptions
 
-This Chapter shall not apply to not-for-profit entities whose activities consist only in seeking to collect data for objectives of general interest, made available by natural or legal persons on the basis of data altruism.
+This Chapter shall not apply to recognised data altruism organisations whose activities consist only in seeking to collect data for objectives of general interest, made available by natural or legal persons on the basis of data altruism.
