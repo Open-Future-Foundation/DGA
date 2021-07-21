@@ -12,7 +12,17 @@
 
 (ca) a framework for the establishment of a European data innovation board.
 
-(2) This Regulation is without prejudice to specific provisions in other Union legal acts regarding access to or re-use of certain categories of data, or requirements related to processing of personal or non-personal data. Where a sector-specific Union legal act requires public sector bodies, data intermediaries or registered entities providing data altruism services to comply with specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime, those provisions of that sector-specific Union legal act shall also apply.
+(2) This Regulation is without prejudice to specific provisions in other Union legal acts regarding access to or re-use of certain categories of data, or requirements related to processing of personal data, including employees' personal data in the employment contextm or non-personal data. Where a sector-specific Union legal act requires public sector bodies, providers of data intermediation services or registered entities providing data altruism services to comply with specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime, those provisions of that sector-specific Union legal act shall also apply.
+
+(2a) Union and Member State law on the protection of personal data apply to any personal data processed in connection with this Regulation. In particular, this Regulation is without prejudice to Regulations (EU) 2016/6791a and (EU) 2018/17251b of the European Parliament and of the Council and Directive 2002/58/EC of the European Parliament and of the Council 1c, and the corresponding provisions in Member State law, including the competences and powers of supervisory authorities. In the event of conflict between the provisions of this Regulation and Union law on the protection of personal data, the latter prevails. This Regulation does not create a legal basis for the processing of personal data.
+
+1a Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), (OJ L 119, 4.5.2016, p.1)
+
+1b Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC, (OJ L 295, 21.11.2018)
+
+1c Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37)
+
+(2b) Where data can be reasonably assumed to lead to the identification or identifiability of natural persons when combined with other datasets, or where personal and non-personal data in a data set are inextricably linked in mixed data sets, the data shall be treated as personal data.
 
 ### Article 2 Definitions
 
@@ -22,15 +32,19 @@ For the purpose of this Regulation, the following definitions apply:
 
 (2)‘re-use’ means the use by natural or legal persons of data held by public sector bodies, for commercial or non-commercial purposes other than the initial purpose within the public task for which the data were produced, except for the exchange of data between public sector bodies purely in pursuit of their public tasks;
 
+(2b) 'data subject' means data subject as defined in Article 4, point (1), of Regulation (EU) 2016/679;
+
 (3)‘non-personal data’ means data other than personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;
 
 (4)‘metadata’ means data collected on any activity of a natural or legal person for the purposes of the provision of a data sharing service, including the date , time and geolocation data, duration of activity, connections to other natural or legal persons established by the person who uses the service;
 
-(5)‘data holder’ means a legal person or data subject who, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal or non-personal data under its control;
+(5)‘data holder’ means a natural or legal person, data subject, public body or international organization, who, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal, subject to consent by data subjects, or non-personal data under its control;
 
-(6)‘data user’ means a natural or legal person who has lawful access to certain personal or non-personal data and is authorised to use that data for commercial or non- commercial purposes;
+(6)‘data user’ means a natural or legal person who has lawful access to certain personal or non-personal data and has the right, including under Regulation (EU) 2016/679 in the case of personal data, to use that data for commercial or non- commercial purposes;
 
-(7)‘data sharing’ means the provision by a data holder of data to a data user for the purpose of joint or individual use of the shared data, based on voluntary agreements, directly or through an intermediary;
+(6a) ‘consent’ means consent as defined in Article 4, point (11), of Regulation (EU) 2016/679 and subject to the conditions set out in Article 7 and Article 8 of that Regulation;
+
+(6b) ‘processing’ means processing as defined in Article 4, point (2), of Regulation (EU) 2016/679;
 
 (8)‘access’ means processing by a data user of data that has been provided by a data holder, in accordance with specific technical, legal, or organisational requirements, without necessarily implying the transmission or downloading of such data;
 
