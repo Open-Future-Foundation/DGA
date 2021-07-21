@@ -38,8 +38,6 @@ For the purpose of this Regulation, the following definitions apply:
 
 (3)‘non-personal data’ means data other than personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;
 
-(4)‘metadata’ means data collected on any activity of a natural or legal person for the purposes of the provision of a data sharing service, including the date , time and geolocation data, duration of activity, connections to other natural or legal persons established by the person who uses the service;
-
 (5)‘data holder’ means a natural or legal person, data subject, public body or international organization, who, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal, subject to consent by data subjects, or non-personal data under its control;
 
 (6)‘data user’ means a natural or legal person who has lawful access to certain personal or non-personal data and has the right, including under Regulation (EU) 2016/679 in the case of personal data, to use that data for commercial or non- commercial purposes;
@@ -74,21 +72,16 @@ For the purpose of this Regulation, the following definitions apply:
 
 (14) ‘secure processing environment’ means the physical or virtual environment and organisational means to re-use data in accordance with applicable law, in particular the preservation of data subject rights under Regulation (EU) 2016/679, and to uphold data confidentiality, integrity and accessibility, and that allows for the operator of the secure processing environment to determine and supervise all data processing actions, including to display, storage, download, export of the data and calculation of derivative data through computational algorithms.
 
-(15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a data intermediary or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the data intermediary or entity with regard to the obligations of that data intermediary or entity set up by this Regulation.
+(15) ‘legal representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a provider of data intermediation service or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the provider of data intermediation service or entity with regard to the obligations of that provider of data intermediation service or entity set under by this Regulation, including to initiate enforcement proceeding against a non-compliant provider of data intermediation services or a data altruism organisation not established in the Union.
 
-(15a) ‘data intermediary’ means a provider of data sharing services with the main objective of establishing a business, a legal and potentially also technical relation between an indefinite number of data holders, including data subjects and an indefinite number of potential data users and which assists both parties in a transaction of data assets between the two.
-The following providers shall, inter alia, not be considered to be data intermediaries for the purposes of this Regulation:
+(15a) ‘data intermediation service ’ means a service, which establishes relationships through technical, legal or other means between an undetermined number of data holders or data subjects and data users to enable or facilitate the sharing, exchange, or pooling of data, under open data or commercial licenses for nonpersonal data, for a fee or free of cost, not including:
 
-(a) providers conducting activities which aggregate, enrich or transform data and licence the use of the resulting data to data users, without providing data sharing services as referred to in Article 9(1);
+(a) value-added data services, which aggregate data, transform or combine data with other data, or analyse it for the purpose of adding substantial value to it and make available the use of the resulting data to data users, unless they have a direct relationship with data holders for the purpose of data intermediation services;
 
-(b) the following providers of data- sharing services:
+(b) services, exclusively used by one data holder in order to enable the use of data they hold, or used by multiple legal entities in a closed group, including contractually-defined collaborations or supplier or customer relationships, in particular those that have as a main objective the ensuring of functionalities of objects and devices connected to the Internet-of-Things;
 
-(i) providers of cloud infrastructure services;
+(c) services that focus on the intermediation of copyright-protected content;
 
-(ii) providers of services that focus on the intermediation of content, in particular on copyright-protected content;
+(d) services of consolidated tape providers as defined in point (53) of Article 4(1) of Directive 2014/65/EU and account information service providers as defined in point 19 of Article 4 of Directive(EU) 2015/2366;
 
-(iii) data exchange platforms that are exclusively used by one data holder in order to enable the use of data they hold as well as platforms developed in the context of objects and devices connected to the Internet-of-Things with the main objective of ensuring functionalities of the connected object or device and allow value added services;
-
-(iv) consolidated tape providers as defined in point (53) of Article 4(1) of Directive 2014/65/EU and account information service providers as defined in point 19 of Article 4 of Directive(EU) 2015/2366;
-
-(15b) ‘services of data cooperative’ means services that support data subjects, one-person companies or micro, small and medium-sized enterprises, who are members of the cooperative or who confer power on the cooperative to negotiate terms and conditions for data processing before they consent, in making informed choices before consenting to data processing, and allowing for mechanisms to exchange views on data processing purposes and conditions that would best represent the interests of data subjects or legal persons.
+(15b) ‘services of data cooperative’ means services that support data subjects, one-person companies or SMEs, who are members of the cooperative or who confer power on the cooperative to negotiate terms and conditions for data processing before they consent, in making informed choices before consenting to data processing, and allowing for mechanisms to exchange views on data processing purposes and conditions that would best represent the interests of data subjects or legal persons.
