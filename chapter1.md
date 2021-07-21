@@ -70,7 +70,7 @@ For the purpose of this Regulation, the following definitions apply:
 
 (c)  can appoint more than half of the undertaking’s administrative, management or supervisory body;
 
-(14) ‘secure processing environment’ means the physical or virtual environment and organisational means to provide the opportunity to re-use data in a manner that allows for the operator of the secure processing environment to determine and supervise all data processing actions, including to display, storage, download, export of the data and calculation of derivative data through computational algorithms.
+(14) ‘secure processing environment’ means the physical or virtual environment and organisational means to re-use data in accordance with applicable law, in particular the preservation of data subject rights under Regulation (EU) 2016/679, and to uphold data confidentiality, integrity and accessibility, and that allows for the operator of the secure processing environment to determine and supervise all data processing actions, including to display, storage, download, export of the data and calculation of derivative data through computational algorithms.
 
 (15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a data intermediary or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the data intermediary or entity with regard to the obligations of that data intermediary or entity set up by this Regulation.
 
