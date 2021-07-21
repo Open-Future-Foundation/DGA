@@ -18,7 +18,7 @@
 
 (b) data held by public service broadcasters and their subsidiaries, and by other bodies or their subsidiaries for the fulfilment of a public service broadcasting remit;
 
-(c) data held by cultural establishments and protected by copyright or IPRs;
+(c) data held by cultural establishments and protected by intellectual property rights;
 
 (ca) data held by educational establishments;
 
@@ -26,7 +26,7 @@
 
 (e)  data the supply of which is an activity falling outside the scope of the public task of the public sector bodies concerned as defined by law or by other binding rules in the Member State concerned, or, in the absence of such rules, as defined in accordance with common administrative practice in that Member State, provided that the scope of the public tasks is transparent and subject to review.
 
-(3) The provisions of this Chapter do not create any obligation on public sector bodies to allow re-use of data nor do they release public sector bodies from their confidentiality obligations. This Chapter is without prejudice to Union and national law or international agreements to which the Union or Member States are parties on the protection of categories of data provided in paragraph 1. This Chapter is without prejudice to Union and national law on access to documents and to obligations of public sector bodies under Union and national law to allow the re-use of data.
+(3) The provisions of this Chapter do not create any obligation on public sector bodies to allow re-use of data nor do they release public sector bodies from their confidentiality obligations under Union or national law. This Chapter is without prejudice to Union and national law or international agreements to which the Union or Member States are parties on the protection of categories of data provided in paragraph 1. This Chapter is without prejudice to Union and national law on access to documents and to obligations of public sector bodies under Union and national law to allow the re-use of data.
 
 ### Article 4 Prohibition of exclusive arrangements
 
