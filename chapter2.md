@@ -100,11 +100,13 @@ The implementing acts referred to in the fourth subparagraph of this paragraph s
 
 (1) Public sector bodies which allow re-use of the categories of data referred to in Article 3 (1) may charge fees for allowing the re-use of such data.
 
-(2) Any fees shall be non-discriminatory, proportionate and objectively justified and shall not restrict competition.
+(2) Any fees charged pursuant to paragraph 1 shall be transparent, non-discriminatory, proportionate with the costs of making available data for re-use, and objectively justified and shall not restrict competition.
 
-(3) Public sector bodies shall ensure that any fees can be paid online through widely available cross-border payment services, without discrimination based on the place of establishment of the payment service provider, the place of issue of the payment instrument or the location of the payment account within the Union.
+(3) Public sector bodies shall ensure that any fees can also be paid online through widely available cross-border payment services, without discrimination based on the place of establishment of the payment service provider, the place of issue of the payment instrument or the location of the payment account.
 
-(4)  Where they apply fees, public sector bodies shall take measures to incentivise the re-use of the categories of data referred to in Article 3 (1) for non-commercial purposes and by small and medium-sized enterprises in line with State aid rules. In that regard, public sector bodies may also make the data available at a discounted fee or free of charge, in particular for SMEs.
+(4)  Where they apply fees, public sector bodies shall take measures to incentivise the re-use of the categories of data referred to in Article 3 (1) for non-commercial purposes and by SMEs and start-ups in line with State aid rules. In that regard, public sector bodies may also make the data available at a discounted fee or free of charge, in particular for SMEs and start-ups, civil society and educational establishments.
+
+To that end, public sector bodies may establish a list of categories of re-users to which data is made available at a discounted fee or free of charge. That list, together with the criteria used to establish it, shall be made public.
 
 (5)Fees shall be derived from the costs related to the processing of requests for re-use of the categories of data referred to in Article 3 (1). The methodology for calculating fees shall be published in advance. 6. The public sector body shall publish a description of the main categories of costs and the rules used for the allocation of costs.
 
