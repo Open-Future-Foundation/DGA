@@ -8,4 +8,4 @@ The repository currently has six branches:
 * the ```ep-imco``` branch contains the [adopted opinion by the IMCO committee](https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/IMCO/AD/2021/07-15/1234693EN.pdf) (PDF)
 * the ```ep-juri``` branch contains the [adopted opinion by the JURI committee](https://www.europarl.europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/JURI/AD/2021/07-15/1235429EN.pdf) (PDF)
 * the ```council``` branch tracks the evolution of the council position - currently, the first [Presidency compromise text](https://data.consilium.europa.eu/doc/document/ST-6297-2021-INIT/en/pdf) (PDF). 
-* the ```council negotiating mandate``` branch tracks the evolution of the council position - currently, the second [Presidency compromise text](https://data.consilium.europa.eu/doc/document/ST-12124-2021-INIT/en/pdf) (PDF).
+* the ```council-compromise-text``` branch tracks the evolution of the council position - currently, the second [Presidency compromise text](https://data.consilium.europa.eu/doc/document/ST-12124-2021-INIT/en/pdf) (PDF).
